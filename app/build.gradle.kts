@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.fake.serenitea"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.fake.serenitea"
         minSdk = 32
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
