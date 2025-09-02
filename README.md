@@ -1,5 +1,7 @@
 # SereniTea
 
+![App Icon](images/AppIcon.jpg)
+
 ## App Overview 
 
 The name of my application is SereniTea. This is a self-improvement  application designed to help users cultivate daily habits, tracking personal growth and improve mental wellbeing through gentle challenges. These challenges can be customizable from 75/25/30 days, or any custom time span. The application contains habit tracking, mood journaling and motivational prompts. Users can log daily tasks, reflect daily and keep track of their progress. This application will help users to improve their lives in a fun manner. It will help users be aware of where they are currently in their lives. It will show them what they need to improve. 
